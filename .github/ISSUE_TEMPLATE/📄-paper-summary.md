@@ -1,13 +1,13 @@
 ---
 name: "\U0001F4C4 Paper Summary"
 about: Summarize a research paper
-title: "[2025-MM-DD] Paper Title"
+title: "Paper Title"
 labels: ''
 assignees: mindyjkang
 
 ---
 
-📌 Paper Information
+# 📌 Paper Information
 
  * Title: [Paper Title]
  * Authors: [Author Names]
@@ -15,25 +15,25 @@ assignees: mindyjkang
 * Link: [Paper URL or DOI]
 * Keywords: [Key Topics]
 
-📝 Summary
+# 📝 Summary
 
 [Provide a brief summary of the paper in your own words.]
 
-🔑 Key Contributions
+# 🔑 Key Contributions
 
 * [Main contribution #1]
 * [Main contribution #2]
 * [Main contribution #3]
 
-🤔 Interesting Insights / Questions
+# 🤔 Interesting Insights / Questions
 
 * [Insight or question #1]
 * [Insight or question #2]
 
-🔗 Related Works
+# 🔗 Related Works
 
 * [Reference to related work #1]
 * [Reference to related work #2]
 
-🏷 Tags
+# 🏷 Tags
 * [e.g., computer-vision, NLP, reinforcement-learning]
