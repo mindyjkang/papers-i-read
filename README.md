@@ -31,11 +31,6 @@ Welcome to the **Paper Summaries** repository! 📚✨ This repository serves as
 - Feel free to **comment on issues** with insights or questions.
 - If you’d like to suggest a paper, open a **New Issue** with the `suggestion` label.
 
-## Related Resources
-
-- 📄 [My Paper Reading List](https://example.com) (optional)
-- 🛠 Tools I use for summarizing: `Zotero`, `Obsidian`, `GPT`
-
 ---
 
 📩 Let’s connect! If you have any recommendations or want to discuss a paper, drop a comment in the Issues section!
